@@ -1,1 +1,1 @@
-This is a simple dice roll game. Just input player names and you’ll get to roll a D20 die. There is a neat little clor change if you roll a crit success or failure.
+This is a simple dice roll game for a D20 die. There is a neat little clor change if you roll a crit success or failure.
